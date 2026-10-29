@@ -8,13 +8,13 @@
 
 ## About
 
-Systems and Computing Engineering student from Pereira, Colombia, focused on Full Stack development and the integration of artificial intelligence. I build end-to-end solutions, from robust backend architectures to intuitive interfaces, combining analytical thinking and creativity to solve real-world problems.
+Systems and Computing Engineering from Pereira, Colombia, focused on Full Stack development and the integration of artificial intelligence. I build end-to-end solutions, from robust backend architectures to intuitive interfaces, combining analytical thinking and creativity to solve real-world problems.
 
 Outside of coding, I enjoy going to the gym, exploring new technologies, and contributing to open-source projects.
 
 ---
 
-## Connect With Me
+## Let's connect
 
 <a href="https://www.linkedin.com/in/isabela-henao-garcia-4168a0336"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:isabelahenao2017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -123,11 +123,6 @@ Outside of coding, I enjoy going to the gym, exploring new technologies, and con
 </div>
 
 ---
-
-## Featured Repository
-
-[![Featured Repository](https://github-readme-stats.vercel.app/api/pin/?username=IsabelaHenaoGarcia&repo=IsabelaHenaoGarcia&theme=tokyonight&hide_border=true)](https://github.com/IsabelaHenaoGarcia)
-
 <br>
 
 <div align="center">
