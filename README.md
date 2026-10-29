@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b2e,100:0d1117&height=170&section=header&text=Isabela%20Henao%20Garc%C3%ADa&fontSize=40&fontColor=e6edf3&fontAlign=50&fontAlignY=42&desc=Systems%20%26%20Computing%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descColor=9da7b3&descAlignY=66&descAlign=50" alt="Isabela Henao García" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=9DA7B3&center=true&vCenter=true&width=560&lines=Full+Stack+Development+%7C+AI+Agents;Scalable+backends+and+clean+interfaces;Pereira%2C+Colombia" alt="Typing SVG" />
+<img src="banner.png" alt="Descripción de la imagen" width="100%"/>
 
 </div>
 
