@@ -116,10 +116,8 @@ Outside of coding, I enjoy going to the gym, exploring new technologies, and con
 <!-- Si despliegas tu propia instancia en Vercel, reemplaza github-readme-stats.vercel.app por tu dominio -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IsabelaHenaoGarcia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=IsabelaHenaoGarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaHenaoGarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsabelaHenaoGarcia&theme=tokyonight" alt="GitHub Stats"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabelaHenaoGarcia&theme=tokyonight" alt="Most Used Languages"/>
 
 </div>
 
