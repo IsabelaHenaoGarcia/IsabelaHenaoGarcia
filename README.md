@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Descripción de la imagen" width="100%"/>
+<img src="banner.png" alt="Isabela Henao García - Systems and Computing Engineer | Full Stack Developer" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## About
 
-Systems and Computing Engineering from Pereira, Colombia, focused on Full Stack development and the integration of artificial intelligence. I build end-to-end solutions, from robust backend architectures to intuitive interfaces, combining analytical thinking and creativity to solve real-world problems.
+Systems and Computing Engineering student from Pereira, Colombia, focused on Full Stack development and the integration of artificial intelligence. I build end-to-end solutions, from robust backend architectures to intuitive interfaces, combining analytical thinking and creativity to solve real-world problems.
 
 Outside of coding, I enjoy going to the gym, exploring new technologies, and contributing to open-source projects.
 
@@ -20,8 +20,8 @@ Outside of coding, I enjoy going to the gym, exploring new technologies, and con
 <a href="mailto:isabelahenao2017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/IsabelaHenaoGarcia"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
-**Portfolio:** <!-- Reemplaza por la URL real de tu portafolio al publicarlo -->
-[github.com/IsabelaHenaoGarcia](https://github.com/IsabelaHenaoGarcia)
+<!-- Reemplaza la URL por la de tu portafolio cuando lo publiques -->
+**Portfolio:** [github.com/IsabelaHenaoGarcia](https://github.com/IsabelaHenaoGarcia)
 
 ---
 
@@ -113,6 +113,7 @@ Outside of coding, I enjoy going to the gym, exploring new technologies, and con
 
 ## GitHub Stats
 
+<!-- Si despliegas tu propia instancia en Vercel, reemplaza github-readme-stats.vercel.app por tu dominio -->
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsabelaHenaoGarcia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -122,7 +123,6 @@ Outside of coding, I enjoy going to the gym, exploring new technologies, and con
 
 </div>
 
----
 <br>
 
 <div align="center">
