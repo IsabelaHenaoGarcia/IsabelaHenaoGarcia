@@ -8,7 +8,7 @@
 
 ## About
 
-Systems and Computing Engineering student from Pereira, Colombia, focused on Full Stack development and the integration of artificial intelligence. I build end-to-end solutions, from robust backend architectures to intuitive interfaces, combining analytical thinking and creativity to solve real-world problems.
+Systems and Computing Engineering from Pereira, Colombia, focused on Full Stack development and the integration of artificial intelligence. I build end-to-end solutions, from robust backend architectures to intuitive interfaces, combining analytical thinking and creativity to solve real-world problems.
 
 Outside of coding, I enjoy going to the gym, exploring new technologies, and contributing to open-source projects.
 
