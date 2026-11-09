@@ -110,21 +110,3 @@ Outside of coding, I enjoy going to the gym, exploring new technologies, and con
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<!-- Si despliegas tu propia instancia en Vercel, reemplaza github-readme-stats.vercel.app por tu dominio -->
-<div align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsabelaHenaoGarcia&theme=tokyonight" alt="GitHub Stats"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabelaHenaoGarcia&theme=tokyonight" alt="Most Used Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b2e,100:0d1117&height=60&section=footer" width="100%" alt=""/>
-
-</div>
